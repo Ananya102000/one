@@ -1,2 +1,2 @@
 FROM jenkins
-COPY . /var/lib/jenkins/myapp
+COPY . /var/lib/jenkins/
